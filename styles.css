@@ -1,0 +1,37 @@
+h1 {
+  font-size: 50px;
+  color: #ff0000;
+}
+
+button {
+  height: 40px;
+  width: 6cm;
+}
+
+h3 {
+  text-align: center;
+  color: #39A2DB;
+  font-size: 17px;
+}
+
+h4 {
+  font-size: 18px;
+  color: black;
+  background-color: #dc143c;
+  text-align: center;
+  height: 45px;
+  width: 20%;
+  border-radius: 60%;
+}
+
+.kiara {
+  text-align: center;
+  background-color: red;
+  height: 150px;
+  width: 150px;
+  border-radius: 60%;
+}
+
+.rating {
+  text-align: center;
+}
